@@ -1,16 +1,42 @@
-## Hi there 👋
+<div align="right">
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-JiyaKamdar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiya-kamdar/)](https://www.linkedin.com/in/jiya-kamdar/)
+  [![Gmail Badge](https://img.shields.io/badge/-kamdarjiya@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kamdarjiya@gmail.com)](mailto:kamdarjiya@gmail.com)
+</div>
 
-<!--
-**jiyakamdar11/jiyakamdar11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+### 📘 How I'd Define Me... Literally
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ```javascript
+ class Jiya extends Person {
+  constructor() {
+    super();
+    this.name = 'Jiya Kamdar';
+    this.age = 21;
+    this.work = ['THEIQHUB'];
+    this.education = ['VIT Bhopal'];
+    this.hobbies = ['Exploring new Tech', 'Being part of tech events', 'Dancing', 'Painting'];
+  }
+
+  languages() {
+    return {
+      human: ['English', 'Punjabi', 'Hindi'],
+      programming: ['HTML', 'CSS', 'JavaScript', 'Java'],
+      technologies: ['Webflow', 'Figma'],
+    };
+  }
+
+  currentLocation() {
+    return 'Bhopal, IN';
+  }
+
+  currently() {
+    return {
+      studying: ['Webflow', 'FlutterFlow'],
+    };
+  }
+}
+ ```
+
+<hr>
